@@ -1,6 +1,6 @@
 <!-- My Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rakeshkarmaker/rakeshkarmaker/main/banner.jpeg" alt="Rakesh Karmaker - Software & AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/rakeshkarmaker/rakeshkarmaker/main/banner.jpg" alt="Rakesh Karmaker - Software & AI Engineer" width="100%" />
 </p>
 
 <!-- Here are the speciaalizations I have done so far-->
