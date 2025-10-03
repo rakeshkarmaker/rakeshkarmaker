@@ -3,14 +3,17 @@
   <img src="https://github.com/rakeshkarmaker/rakeshkarmaker/blob/main/main/banner.jpg" alt="Rakesh Karmaker - Software & AI Engineer" width="100%" />
 </p>
 
-<!-- Here are the speciaalizations I have done so far-->
+<!-- Here are the specializations I have done so far-->
 <p align="center">
-# Hello, I'm Rakesh Karmaker 👋  
-**Software & AI Engineer | Full-stack Developer | .NET | ML,DL,GNN | Graph Theory | NLP & LLM Researcher**
+<h1>Hello, I'm Rakesh Karmaker 👋 </h1> 
+<h3>Software & AI Engineer | Full-stack Developer | .NET | ML,DL,GNN | Graph Theory | NLP & LLM Researcher</h3>
 </p>
----
 
-<!-- Here are the tech stacks I have done so far Note have to sub arrange these better next! -->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Here are the tech stacks I have done so far. Note: have to sub-arrange these better next! -->
 ## 👨‍💻 Tech Stack & Skills
 <div align="center">
   <!-- Frontend -->
@@ -31,7 +34,9 @@
   <img alt="Graph Neural Networks" src="https://img.shields.io/badge/-GNN-3E7C63?style=for-the-badge&logo=graphcool&logoColor=white" />
 </div>
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🚀 Featured Projects & Research  
 <!-- <p align="center">
@@ -53,7 +58,9 @@
 | Healthcare Management System    | Administrative & clinical workflow software               | .NET, C#, SQL            |
 | AIUBReD Official Website        | Collaborative university website development              | HTML5, CSS3, Bootstrap5, JS  |
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📜 Research Contributions  
 - Investigating Custom Loss-Driven U-Net Framework for Medical Image Segmentation 
@@ -62,18 +69,22 @@
 - adversarial attack Threat Mitigation- Exploring Graph baased approaches
 - Published academic papers & presentations (links on portfolio)  
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Stats  
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshkarmaker&show_icons=true&theme=radical&hide=prs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkarmaker&layout=compact&theme=radical)
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📫 Get In Touch  
 [Portfolio](https://rakeshkarmaker.github.io) | [LinkedIn](https://www.linkedin.com/in/rakeshkarmaker) | [Twitter](https://twitter.com/iamrakesh14)
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Thanks for stopping by! Feel free to explore my code and reach out to collaborate. 
 
