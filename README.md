@@ -72,12 +72,19 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Stats -->
 ## 📈 GitHub Stats  
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshkarmaker&show_icons=true&theme=radical&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkarmaker&layout=compact&theme=radical)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://github.com/rakeshkarmaker/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshkarmaker&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&number_format=long&line_height=28&hide_border=true&theme=transparent" />
+</a>
+
+  <a href="https://github.com/rakeshkarmaker/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkarmaker&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Languages%20%E2%80%A2%20Pie&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
 
 
 ## 📫 Get In Touch  
