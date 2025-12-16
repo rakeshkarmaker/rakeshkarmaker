@@ -69,7 +69,7 @@
 </p>
 
 ## 📫 Get In Touch  
-[Portfolio](https://rakeshkarmaker.github.io) | [LinkedIn](https://www.linkedin.com/in/rakeshkarmaker)
+[Portfolio-https://rakeshkarmaker.me](https://rakeshkarmaker.me) | [LinkedIn](https://www.linkedin.com/in/rakeshkarmaker) [Facebook](https://www.facebook.com/iamrakesh14/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
