@@ -1,6 +1,6 @@
 <!-- My Banner -->
 <p align="center">
-  <img src="https://github.com/rakeshkarmaker/rakeshkarmaker/blob/main/banner.jpg" alt="Rakesh Karmaker - Software & AI Engineer" width="100%" />
+  <img src="https://github.com/rakeshkarmaker/rakeshkarmaker/blob/main/RakeshKarmakerBanner.jpg" alt="Rakesh Karmaker - Software & AI Engineer" width="100%" />
 </p>
 
 <p align="center">
