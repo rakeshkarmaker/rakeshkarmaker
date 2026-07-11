@@ -10,6 +10,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<!-- My Research Scopes-->
+## 🌱 Currently Learning
+
+> Exploring the mathematical foundations and engineering principles behind next-generation computing.
+
+- ⚛️ **Quantum Mechanics**
+- 🧮 **Advanced Algorithms**
+- 🕸️ **Graph Theory**
+- 💻 **Quantum Computing**
+- 🔬 **Quantum Software Engineering**
+
+## 🎓 Open to Opportunities
+
+> Looking for research collaborations, and graduate opportunities in:
+
+✨ **Quantum Computing** • **Quantum Software Engineering** • **Quantum Communication** • **AI for Quantum Technologies** • **Graph Machine Learning** • **NLP**
+
+
 ## 👨‍💻 Tech Stack & Skills
 <div align="center">
 
