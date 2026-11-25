@@ -5,7 +5,7 @@
 
 <p align="center">
 <h1>Hello, I'm Rakesh Karmaker 👋</h1> 
-<h3>Software Engineer | Full-Stack (.NET, NestJS, Next.js) | AI/ML & LLM Researcher | NLP · GNN · Graph Theory</h3>
+<h3>Software Engineer | Full-Stack (NestJS,TanStack, Next.js, .NET) | AI/ML & LLM Researcher | NLP · GNN · Graph Theory</h3>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,19 +14,21 @@
 <!-- My Research Scopes-->
 ## 🌱 Currently Learning
 
-> Exploring the mathematical foundations and engineering principles behind next-generation computing.
+> Exploring Applied AI systems and software engineering, Actively Developing Automation Systems leveraging my knowledge of Software, AI & IOT knowledge.
 
-- ⚛️ **Quantum Mechanics**
-- 🧮 **Advanced Algorithms**
-- 🕸️ **Graph Theory**
-- 💻 **Quantum Computing**
-- 🔬 **Quantum Software Engineering**
+- ⚛️ **Advanced Software Engineering** — System Design, Distributed Systems, Software Architecture, Full Stack Dev.
+- 🤖 **Applied Artificial Intelligence** — NLP, LLMs, RAG, AI Agents, and Intelligent Automation & Research.
+- 🧮 **Advanced Algorithms & Computational Theory**
+- 🕸️ **Graph Theory, Algorithms & Graph Neural Networks**
+- 🔬 **Quantum Computing & Quantum Software Engineering**
+- ⚛️ **AI × IoT — Intelligent Automation and Connected Systems**
+
 
 ## 🎓 Open to Opportunities
 
 > Looking for research collaborations, and graduate opportunities in:
 
-✨ **Quantum Computing** • **Quantum Software Engineering** • **Quantum Communication** • **AI for Quantum Technologies** • **Graph Machine Learning** • **NLP**
+✨ **Applied Artificial Intelligence** • **Quantum Software Engineering** • **AI for Quantum Technologies** • **Graph Machine Learning** • **NLP** • **LARGE LANGUAGE MODEL**  
 
 
 ## 👨‍💻 Tech Stack & Skills
@@ -88,7 +90,7 @@
 </p>
 
 ## 📫 Get In Touch  
-[Portfolio-https://rakeshkarmaker.me](https://rakeshkarmaker.me) | [LinkedIn](https://www.linkedin.com/in/rakeshkarmaker) [Facebook](https://www.facebook.com/iamrakesh14/)
+[Portfolio-https://rakeshkarmaker.me](https://rakeshkarmaker.com) | [LinkedIn](https://www.linkedin.com/in/rakeshkarmaker) [Facebook](https://www.facebook.com/iamrakesh14/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
