@@ -33,8 +33,6 @@
 
 ## 👨‍💻 Tech Stack & Skills
 
-## 🛠️ Tech Stack & Technical Skills
-
 ### 💻 Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
